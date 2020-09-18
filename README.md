@@ -1,4 +1,7 @@
 ## Waiting for update!
 
 
-Send an email to ask Hongjing update his page! [tonystevenj](tonystevenj@gmail.com)
+Send an email to ask Hongjing update his page!
+
+
+tonystevenj@gmail.com
