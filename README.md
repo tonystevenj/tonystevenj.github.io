@@ -1,7 +1,10 @@
 ## Waiting for update!
 
 
-Send an email to ask Hongjing update his page soon!
+Please go to [Hongjing's site](https://tonystevenj.github.io/mysite/).
+
+
+Send an email to ask for more update soon!
 
 
 tonystevenj@gmail.com
