@@ -1,0 +1,31 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Open to work!
+    i18n: company_a
+  desc:
+    detail: Interested in data processing and software development opportunities.
+    i18n: company_a_desc
+  date:
+    detail: Graduating Dec 2020.
+    i18n: company_a_date
+  job:
+    detail:
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: Florida International University
+    i18n: company_b
+  desc:
+    detail: "- Assistant in a brain research program using Machine Learning. Implement linear regression, logical regression and designed a personal loss function. (made the model ideally converge). Built a variety of neural network structures including CNN and RBF to find the relationship between IQ of one brain and its 3D-scan data."
+
+    i18n: company_b_desc
+  date:
+    detail: Apr 2019 - Aug 2019
+    i18n: company_b_date
+  job:
+    detail: Research Assistant
+    i18n: company_b_job
+  icon: fa-plus-square
