@@ -8,6 +8,15 @@
   img: /static/assets/img/landing/icons8-house-100.png
   desc: A web application developed in Python-flask. Implement several data processing algorithms such as TF-IDF, K-mean cluster, Convex hull and etc., on Yelp’s open data set, to present business ideas and opportunities in certain locations to potential new restaurant owners.
 
+
+- name: Pig Game
+  i18n: cpython
+  gh_user: tonystevenj
+  repo: pig-game
+  img: /static/assets/img/landing/pigGame.png
+  desc: This is a little game developed in JavaScript that you can play in your browser! Have a relax!
+  
+  
 - name: Flink-tutorial
   i18n: cpython
   gh_user: tonystevenj
