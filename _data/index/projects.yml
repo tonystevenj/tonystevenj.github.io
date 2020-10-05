@@ -13,7 +13,7 @@
   i18n: cpython
   gh_user: tonystevenj
   repo: pig-game
-  img: /static/assets/img/landing/pigGame.png
+  img: /static/assets/img/landing/pig-game.png
   desc: This is a little game developed in JavaScript that you can play in your browser! Have a relax!
   
   
