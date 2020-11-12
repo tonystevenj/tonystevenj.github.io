@@ -19,7 +19,10 @@
     detail: Florida International University
     i18n: company_b
   desc:
-    detail: "- Assistant in a brain research program using Machine Learning. Implement linear regression, logical regression and designed a personal loss function. (made the model ideally converge). Built a variety of neural network structures including CNN and RBF to find the relationship between IQ of one brain and its 3D-scan data."
+    detail: "Held a research assistant role in a neuroscience research program using Machine Learning to figure out the relationship between the IQ of one brain and its 3D-scan data. \n
+    Implemented several machine learning algorithms including Logical Regression, Random Forest, deep learning, etc. and utilized Sklearn applied grid search for Hyperparameter optimization.
+    \n Designed a special loss function in deep learning and implemented the whole model in TensorFlow, which made the model converge ideally.
+"
 
     i18n: company_b_desc
   date:
