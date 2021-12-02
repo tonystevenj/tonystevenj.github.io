@@ -1,0 +1,57 @@
+.main{
+    height: 100vh;
+    position: relative;
+}
+.upper{
+    height: 50%;
+    background-color: var(--color-sky);
+}
+
+.lower{
+    height: 50%;
+    background-color: var(--color-ground);
+}
+
+
+.body{
+    height: 80vmin;
+    width: 80vmin;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.body-upper{
+    height: 50%;
+    background-color: var(--color-treetop);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items:flex-end;
+}
+
+.body-upper h1{
+    color: var(--color-header);
+    font-size: 9vmin;
+}
+
+.body-lower{
+    height: 50%;
+    background-color: var(--color-treeroot);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items:flex-start;
+}
+
+.body-lower p{
+    color: var(--color-sky);
+    font-size: 4vmin;
+}
+
+.body-lower a{
+    color: var(--color-sky);
+}
